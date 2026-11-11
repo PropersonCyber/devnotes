@@ -7,9 +7,10 @@
 ## 文件导航
 
 - [产品设计与验收标准](prd.md)
-- [首页效果图](docs/design/home.png)
+- [当前首页效果图](docs/design/screens/home.png)
+- [已确认视觉参考](docs/design/approved-reference.png)
 - [视觉说明](docs/design/design-notes.md)
-- [其他页面静态预览](docs/design/preview.html)（下载后使用浏览器打开）
+- [全站 12 页静态预览](docs/design/preview.html)（下载后使用浏览器打开）
 - [全站 UI 与最小宽度规范](docs/design/ui-spec.md)
 - [图片生成提示词](docs/design/home-prompt.txt)
 
@@ -29,3 +30,5 @@ prd.md          产品范围、流程、数据、接口、验收标准
 前端建议 Next.js + TypeScript；Go 独立处理业务及权限；PostgreSQL 持久化；兼容 S3 的对象存储保存图片。Go 框架尚未指定，实施时与公司规范对齐。
 
 先实施 PRD 的 M1 发布闭环；效果图展示 M2 完整首页，示例内容不是已发布文章。
+
+当前视觉采用已确认的浅灰、克莱因蓝与银色 3D 风格。早期墨绿首页 `home.png` 仅保留作历史稿。
