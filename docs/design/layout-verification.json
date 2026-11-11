@@ -1,0 +1,185 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "id": "posts",
+      "width": 1440,
+      "viewportClientWidth": 1425,
+      "bodyWidth": 1425,
+      "contentWidth": 1200,
+      "scrollWidth": 1425,
+      "pass": true
+    },
+    {
+      "id": "article",
+      "width": 1440,
+      "viewportClientWidth": 1425,
+      "bodyWidth": 1425,
+      "contentWidth": 1200,
+      "scrollWidth": 1425,
+      "pass": true
+    },
+    {
+      "id": "series",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": 1200,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "series-detail",
+      "width": 1440,
+      "viewportClientWidth": 1425,
+      "bodyWidth": 1425,
+      "contentWidth": 1200,
+      "scrollWidth": 1425,
+      "pass": true
+    },
+    {
+      "id": "projects",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": 1200,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "project",
+      "width": 1440,
+      "viewportClientWidth": 1425,
+      "bodyWidth": 1425,
+      "contentWidth": 1200,
+      "scrollWidth": 1425,
+      "pass": true
+    },
+    {
+      "id": "about",
+      "width": 1440,
+      "viewportClientWidth": 1425,
+      "bodyWidth": 1425,
+      "contentWidth": 1200,
+      "scrollWidth": 1425,
+      "pass": true
+    },
+    {
+      "id": "login",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": 1200,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "admin",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": null,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "editor",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": null,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "taxonomy",
+      "width": 1440,
+      "viewportClientWidth": 1440,
+      "bodyWidth": 1440,
+      "contentWidth": null,
+      "scrollWidth": 1440,
+      "pass": true
+    },
+    {
+      "id": "posts",
+      "width": 1280,
+      "viewportClientWidth": 1265,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "article",
+      "width": 1280,
+      "viewportClientWidth": 1265,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "editor",
+      "width": 1280,
+      "viewportClientWidth": 1280,
+      "bodyWidth": 1280,
+      "contentWidth": null,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "posts",
+      "width": 1000,
+      "viewportClientWidth": 985,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "article",
+      "width": 1000,
+      "viewportClientWidth": 985,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "editor",
+      "width": 1000,
+      "viewportClientWidth": 985,
+      "bodyWidth": 1280,
+      "contentWidth": null,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "posts",
+      "width": 768,
+      "viewportClientWidth": 753,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "article",
+      "width": 768,
+      "viewportClientWidth": 753,
+      "bodyWidth": 1280,
+      "contentWidth": 1200,
+      "scrollWidth": 1280,
+      "pass": true
+    },
+    {
+      "id": "editor",
+      "width": 768,
+      "viewportClientWidth": 753,
+      "bodyWidth": 1280,
+      "contentWidth": null,
+      "scrollWidth": 1280,
+      "pass": true
+    }
+  ]
+}

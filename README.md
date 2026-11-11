@@ -9,6 +9,8 @@
 - [产品设计与验收标准](prd.md)
 - [首页效果图](docs/design/home.png)
 - [视觉说明](docs/design/design-notes.md)
+- [其他页面静态预览](docs/design/preview.html)（下载后使用浏览器打开）
+- [全站 UI 与最小宽度规范](docs/design/ui-spec.md)
 - [图片生成提示词](docs/design/home-prompt.txt)
 
 ## 目录规划
